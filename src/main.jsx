@@ -52,7 +52,7 @@ const trainings = [
   'training-new-13.jpg', 'training-extra-06.jpg', 'training-new-06.jpg', 'training-extra-19.jpg', 'training-new-17.jpg',
   'training-extra-11.jpg', 'training-new-10.jpg', 'training-extra-04.jpg', 'training-extra-13.jpg', 'training-extra-08.jpg',
 ];
-const servedIps = ['ip-1.jpg', 'ip-2.jpg', 'ip-3.jpg', 'ip-4.jpg', 'ip-5.jpg', 'ip-6.jpg', 'ip-7.jpg', 'ip-8.jpg', 'ip-9.jpg', 'ip-10.jpg'];
+const servedIps = ['ip-1.jpg', 'ip-2.jpg', 'ip-3.jpg', 'ip-4.jpg', 'ip-5.jpg', 'ip-6.jpg', 'ip-7.jpg', 'ip-8.jpg'];
 
 function App() {
   useEffect(() => {
