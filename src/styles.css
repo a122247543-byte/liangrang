@@ -329,6 +329,7 @@ body.is-opening-complete .siteHeader {
   justify-content: center;
   padding: 48px 0 196px;
   text-align: center;
+  transform: translateY(-30px);
 }
 
 .hero h1 {
