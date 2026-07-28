@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Local logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+
+# Codex/local working state
+.agents/
+liangrang/
+
+# Archived and backup assets
+archived-*/
+backup-before-*/
+
+# Raw source asset folders; optimized public assets are kept under public/assets/site
+个人介绍/
+个人荣誉/
+关于我们/
+服务过的IP/
+线下培训照片/
+
+# Old preview drafts and unused large media
+preview.html
+preview-copy.html
+laser-flow-*.webm
+
+# Root-level source images already copied into public/assets/site
+人物抠图.png
+科技树苗.png
+科技树苗2.jpg
+良壤logo.png
+左按钮.png
+右按钮.png
